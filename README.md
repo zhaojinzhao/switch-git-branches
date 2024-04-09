@@ -16,7 +16,7 @@ sgb
 
 ## Example
 
-<img src="./example.gif" alt="sgb example">
+<img src="https://github.com/zhaojinzhao/switch-git-branches/raw/master/example.gif" alt="sgb example">
 
 
 ## More info

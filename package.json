@@ -7,11 +7,20 @@
     "sgb": "./index.js"
   },
   "keywords": [
+    "switch",
     "git",
     "branch"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhaojinzhao/switch-git-branches.git"
+  },
   "author": "thomas",
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhaojinzhao/switch-git-branches/issues"
+  },
+  "homepage": "https://github.com/zhaojinzhao/switch-git-branches#readme",
   "devDependencies": {
     "kolorist": "^1.8.0",
     "prompts": "^2.4.2"
