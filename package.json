@@ -1,6 +1,6 @@
 {
   "name": "switch-git-branches",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "A tool easier switching git branches",
   "type": "module",
   "bin": {
