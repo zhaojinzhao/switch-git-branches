@@ -21,7 +21,7 @@
     "url": "https://github.com/zhaojinzhao/switch-git-branches/issues"
   },
   "homepage": "https://github.com/zhaojinzhao/switch-git-branches#readme",
-  "devDependencies": {
+  "dependencies": {
     "kolorist": "^1.8.0",
     "prompts": "^2.4.2"
   },
