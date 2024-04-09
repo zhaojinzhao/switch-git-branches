@@ -1,0 +1,22 @@
+{
+  "name": "switch-git-branches",
+  "version": "1.0.0",
+  "description": "A tool easier switching git branches",
+  "type": "module",
+  "bin": {
+    "sgb": "./index.js"
+  },
+  "keywords": [
+    "git",
+    "branch"
+  ],
+  "author": "thomas",
+  "license": "MIT",
+  "devDependencies": {
+    "kolorist": "^1.8.0",
+    "prompts": "^2.4.2"
+  },
+  "engines": {
+    "node": ">=v16.20.0"
+  }
+}
